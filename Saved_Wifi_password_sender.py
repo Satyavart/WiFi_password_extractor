@@ -31,6 +31,6 @@ def get_pass():
     send_mails(Email, Pass, mess)
 
 
-Email = "testarena46@gmail.com"
-Pass = "Password@123"
+Email = "email_ID@gmail.com"
+Pass = "Password"
 get_pass()
